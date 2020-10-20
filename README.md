@@ -14,9 +14,11 @@
   <table>
     <tr>
         <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api?username=patrickmonteiro&theme=dracula"/></td>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonteiro&layout=compact&theme=dracula" /></td>
-        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@patrickmonteiro&theme=dracula&layout=compact"/></td>
-    </tr>   
+       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonteiro&layout=compact&theme=dracula" /></td>
+    </tr>  
+    <tr>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@patrickmonteiro&theme=dracula&layout=compact"/></td>
+    </tr> 
   </table>
 </center>  
 
