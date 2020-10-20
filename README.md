@@ -13,11 +13,11 @@
 <center>
   <table>
     <tr>
-        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=patrickmonteiro&theme=dracula"/></td>
-       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonteiro&layout=compact&theme=dracula" /></td>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=patrickmonteiro&theme=blueberry&include_all_commits=true"/></td>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmonteiro&layout=compact&theme=blueberry" /></td>
     </tr>  
     <tr>
-       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@patrickmonteiro&theme=dracula&layout=compact"/></td>
+       <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@patrickmonteiro&theme=blueberry&layout=compact"/></td>
     </tr> 
   </table>
 </center>  
