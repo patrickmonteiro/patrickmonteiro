@@ -9,7 +9,9 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
 <center>
   <table>
     <tr>
-        <td><img heigth="100% auto;" align="left" src="assets/capa.png"/></td>
+        <td align="center">
+        <img heigth="100% auto;" align="center" src="assets/capa.png"/>
+        </td>
     </tr>  
   </table>
 </center>  
