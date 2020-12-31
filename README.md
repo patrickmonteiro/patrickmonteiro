@@ -1,6 +1,21 @@
 
 ##  Hi, I'm Patrick Monteiro!
 
+I'm a Front-End Developer. I produce content, articles and videos for the community.
+I currently dedicate efforts to the Quasar Framework community, with sample repositories to facilitate development and integration.
+
+**Youtube Channel**: [Patrick Monteiro](https://youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc)
+
+<center>
+  <table>
+    <tr>
+        <td><img heigth="100% auto;" align="left" src="assets/capa.png"/></td>
+    </tr>  
+  </table>
+</center>  
+
+<br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
