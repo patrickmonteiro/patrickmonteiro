@@ -6,16 +6,9 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
 
 **Youtube Channel**: [Patrick Monteiro](https://youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc)
 
-<center>
-  <table>
-    <tr>
-        <td align="center">
-        <img heigth="100% auto;" align="center" src="assets/capa.png"/>
-        </td>
-    </tr>  
-  </table>
-</center>  
-
+<div style="width: 100% auto; align: center">
+  <img heigth="100% auto;" align="center" src="assets/capa.png"/>
+</div>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
