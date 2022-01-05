@@ -7,7 +7,9 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
 **Youtube Channel**: [Patrick Monteiro](https://youtube.com/playlist?list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d)
 
 <div style="width: 100% auto; text-align:center;">
+  <a href="https://youtube.com/playlist?list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d" target="_blank">
   <img heigth="100% auto;" src="assets/capa2.png"/>
+  </a>
 </div>
 <br>
 
