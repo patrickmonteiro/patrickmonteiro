@@ -74,3 +74,5 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
   </table>
 </center>  
 
+[![@patrickmonteiro's Holopin board](https://holopin.me/patrickmonteiro)](https://holopin.io/@patrickmonteiro)
+
