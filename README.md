@@ -9,6 +9,14 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
   <table>
     <tr>
       <td>
+        <a href="https://www.youtube.com/watch?v=ZzRgf7_E9QY&list=PLBjvYfV_TvwI7mBzslYRsjgKdWHv0ONsY&index=1" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/ZzRgf7_E9QY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwldOMrBe9g1GcjdV0-UgXVaIfWA" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=ZzRgf7_E9QY&list=PLBjvYfV_TvwI7mBzslYRsjgKdWHv0ONsY&index=1" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
         <a href="https://www.youtube.com/watch?v=8Qz1ONUlZDM&list=PLBjvYfV_TvwKsZMouKKzBdyjiZnA-XHrn&index=1" target="_blank">
           <img heigth="100%;" src="https://i.ytimg.com/vi/8Qz1ONUlZDM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDocs-GuXPPCL1XRSq7qtuGamh8ZA"/>
         </a>
@@ -22,14 +30,6 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
         </a>
         <p style="text-align: center; width: auto">
             Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=K5wxwnNnHIc&list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d&index=1&" target="_blank">Link</a>
-        </p>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=XZF0O7_9sgs&list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK&index=1" target="_blank">
-          <img heigth="100%;" src="https://i.ytimg.com/vi/XZF0O7_9sgs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu-LmHoXOhzLbXwLQbLoj30-ZLUw"/>
-        </a>
-        <p style="text-align: center; width: auto">
-          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=XZF0O7_9sgs&list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK&index=1" target="_blank">Link</a>
         </p>
       </td>
     </tr>
@@ -48,6 +48,14 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
         </a>
         <p style="text-align: center; width: auto">
             Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=wppQtLOOhLw&list=PLBjvYfV_TvwJBLsbHx2DeRTMIrsyRRxxg&index=1" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=XZF0O7_9sgs&list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK&index=1" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/XZF0O7_9sgs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu-LmHoXOhzLbXwLQbLoj30-ZLUw"/>
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=XZF0O7_9sgs&list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK&index=1" target="_blank">Link</a>
         </p>
       </td>
     </tr>
