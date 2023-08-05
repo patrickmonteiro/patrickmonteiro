@@ -44,7 +44,7 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
       </td>
       <td>
         <a href="https://www.youtube.com/watch?v=wppQtLOOhLw&list=PLBjvYfV_TvwJBLsbHx2DeRTMIrsyRRxxg&index=1" target="_blank">
-          <img heigth="50%;" src="https://i.ytimg.com/vi/wppQtLOOhLw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJJUAOP0rtUeZBXeoJyiygdnSPAQ"/>
+          <img heigth="50%;" src="https://i.ytimg.com/vi/vxGaKNyIHSU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUL0renWGsXUU_gC6D4qfMcnfXnw"/>
         </a>
         <p style="text-align: center; width: auto">
             Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=wppQtLOOhLw&list=PLBjvYfV_TvwJBLsbHx2DeRTMIrsyRRxxg&index=1" target="_blank">Link</a>
