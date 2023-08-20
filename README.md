@@ -4,7 +4,7 @@
 I'm a Front-End Developer. I produce content, articles and videos for the community.
 I currently dedicate efforts to the Quasar Framework community, with sample repositories to facilitate development and integration.
 
-**Youtube Channel**: [Patrick Monteiro](https://youtube.com/playlist?list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d)
+### [🔴 Youtube Channel]: [Patrick Monteiro](https://www.youtube.com/@PatrickMonteiro?sub_confirmation=1)
 <center>
   <table>
     <tr>
