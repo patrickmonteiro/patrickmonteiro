@@ -4,9 +4,42 @@
 I'm a Front-End Developer. I produce content, articles and videos for the community.
 I currently dedicate efforts to the Quasar Framework community, with sample repositories to facilitate development and integration.
 
+---
+
+🇧🇷 Sou desenvolvedor front-end. Produzo conteúdo, artigos e vídeos para a comunidade. Atualmente dedico esforços à comunidade Quasar Framework e Vue.js, com repositórios de exemplos para facilitar o desenvolvimento e integração.
+
+---
+
 ### [🔴 Youtube Channel]: [Patrick Monteiro](https://www.youtube.com/@PatrickMonteiro?sub_confirmation=1)
+Em meu canal você encontra diversos vídeos e cursos de Quasar Framework para acelerar seu aprendizado.
 <center>
   <table>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=kHIX9XiD1Oo" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/kHIX9XiD1Oo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKp7YYmqYy4yvp7oVx39JCeuoQng" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=kHIX9XiD1Oo" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=l6Xaj9G6vwE" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/l6Xaj9G6vwE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnqbRn2-VgNlo2CgLmP8qgl5O5AQ" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=l6Xaj9G6vwE" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=oxT72iGgOTc" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/oxT72iGgOTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH17UUszfJjTBfCehooDB32TjbPw" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=oxT72iGgOTc" target="_blank">Link</a>
+        </p>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://www.youtube.com/watch?v=ZzRgf7_E9QY&list=PLBjvYfV_TvwI7mBzslYRsjgKdWHv0ONsY&index=1" target="_blank">
@@ -62,6 +95,4 @@ I currently dedicate efforts to the Quasar Framework community, with sample repo
   </table>
 </center>
 <br>
-
-[![@patrickmonteiro's Holopin board](https://holopin.me/patrickmonteiro)](https://holopin.io/@patrickmonteiro)
 
