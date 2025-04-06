@@ -16,6 +16,32 @@ Em meu canal você encontra diversos vídeos e cursos de Quasar Framework para a
   <table>
     <tr>
       <td>
+        <a href="https://www.youtube.com/watch?v=Sm1VcJ759ms" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/Sm1VcJ759ms/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8AM59X9t68Po-4xRLLGSZHZDWmw" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=Sm1VcJ759ms" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=cnBUkbTcMak" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/cnBUkbTcMak/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_WofBNGZPokIlja-8Zeh4I8Hh3A" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=cnBUkbTcMak" target="_blank">Link</a>
+        </p>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=WZAapJ1jfhE" target="_blank">
+          <img heigth="100%;" src="https://i.ytimg.com/vi/WZAapJ1jfhE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5R_sJjTUjoGT0t7DQh09agd9rIQ" />
+        </a>
+        <p style="text-align: center; width: auto">
+          Assista no Youtube 🔗 <a href="https://www.youtube.com/watch?v=WZAapJ1jfhE" target="_blank">Link</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://www.youtube.com/watch?v=kHIX9XiD1Oo" target="_blank">
           <img heigth="100%;" src="https://i.ytimg.com/vi/kHIX9XiD1Oo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKp7YYmqYy4yvp7oVx39JCeuoQng" />
         </a>
