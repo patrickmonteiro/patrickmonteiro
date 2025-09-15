@@ -1,12 +1,11 @@
 
-##  Hi, I'm Patrick Monteiro!
+## Olá, sou Patrick Monteiro!
 
-I'm a Front-End Developer. I produce content, articles and videos for the community.
-I currently dedicate efforts to the Quasar Framework community, with sample repositories to facilitate development and integration.
+🇧🇷 Sou desenvolvedor Front-end apaixonado por tecnologia e pela comunidade open source.
+💻 Produzo conteúdo, artigos e vídeos para compartilhar conhecimento e ajudar outros devs a evoluírem.
+🌱 Atualmente dedico meus esforços ao ecossistema Vue.js e Quasar Framework, criando repositórios de exemplos, integrações e boas práticas para facilitar o dia a dia de outros desenvolvedores.
 
----
-
-🇧🇷 Sou desenvolvedor front-end. Produzo conteúdo, artigos e vídeos para a comunidade. Atualmente dedico esforços à comunidade Quasar Framework e Vue.js, com repositórios de exemplos para facilitar o desenvolvimento e integração.
+🔗 Aqui você encontra projetos, estudos e contribuições que refletem meu compromisso em fortalecer a comunidade.
 
 ---
 
