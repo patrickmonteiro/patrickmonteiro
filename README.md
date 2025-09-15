@@ -2,10 +2,17 @@
 ## Olá, sou Patrick Monteiro!
 
 🇧🇷 Sou desenvolvedor Front-end apaixonado por tecnologia e pela comunidade open source.
+
 💻 Produzo conteúdo, artigos e vídeos para compartilhar conhecimento e ajudar outros devs a evoluírem.
-🌱 Atualmente dedico meus esforços ao ecossistema Vue.js e Quasar Framework, criando repositórios de exemplos, integrações e boas práticas para facilitar o dia a dia de outros desenvolvedores.
+
+🌱 Atualmente dedico meus esforços ao meu curso Vuejs Expert que criei para ajudar desenvolvedores a subir de nível no ecossistema Vue.js independente do seu conhecimento atual.
 
 🔗 Aqui você encontra projetos, estudos e contribuições que refletem meu compromisso em fortalecer a comunidade.
+
+## [Curso Vuejs Expert](https://cursovuejs.com.br/)
+
+<img width="1427" height="719" alt="Captura de Tela 2025-09-15 às 14 49 18" src="https://github.com/user-attachments/assets/e91b2955-d389-4547-93cd-dd710d3c4656" />
+
 
 ---
 
